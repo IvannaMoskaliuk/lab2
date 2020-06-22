@@ -71,6 +71,7 @@ public class MonthSubscription implements IPrice {
                 '}';
     }
 
+    // method Override from Interface
     @Override
     public int getPrice() {
         return this.getPricePerMonth();
