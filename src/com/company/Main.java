@@ -111,3 +111,18 @@ public class Main {
     }
 
 }
+/*
+---------------- output ----------------
+Total price of a month is 8310
+
+The highest price is:
+FreeChoice{name='Fitness Sport Style', visits=20, pricePerVisit=80}
+
+The lowest price is:
+MonthSubscription{name='Steel Gym', pricePerMonth=300}
+
+The lowest price is: 831.0
+
+Free Choice get higher revenue than Month Subscription - 5690
+
+ */
