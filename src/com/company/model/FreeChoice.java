@@ -33,9 +33,9 @@ import com.company.IPrice;
 
 public class FreeChoice implements IPrice {
 
-    public String name;
-    public int visits;
-    public int pricePerVisit;
+    private String name;
+    private int visits;
+    private int pricePerVisit;
 
     // Constructor empty
     public FreeChoice() {
