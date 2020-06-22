@@ -37,10 +37,6 @@ public class FreeChoice implements IPrice {
     private int visits;
     private int pricePerVisit;
 
-    // Constructor empty
-    public FreeChoice() {
-    }
-
     // Constructor full
     public FreeChoice(String name, int visits, int pricePerVisit) {
         this.name = name;

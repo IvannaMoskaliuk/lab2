@@ -35,10 +35,6 @@ public class MonthSubscription implements IPrice {
     private String name;
     private int pricePerMonth;
 
-    // Constructor empty
-    public MonthSubscription() {
-    }
-
     // Constructor full
     public MonthSubscription(String name, int pricePerMonth) {
         this.name = name;

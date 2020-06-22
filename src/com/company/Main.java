@@ -41,6 +41,7 @@ public class Main {
     public static void main(String[] args) {
 
         //1. Create two appropriate classes and 5 objects of each one.
+
         // 5 objects of class MonthSubscription
 
         MonthSubscription steelGym = new MonthSubscription("Steel Gym", 300);
